@@ -42,6 +42,13 @@ This project analyses the financial performance of a SaaS business using Power B
 
 -KPI Reporting
 
+## Key Insights
+- Revenue showed consistent growth over the reporting period.
+  
+- SaaS subscriptions generated the majority of revenue.
+  
+- Net profit remained negative despite strong revenue growth.
+  
 ## Dashboard Preview
 
 ### Overview
