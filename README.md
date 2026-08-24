@@ -4,11 +4,14 @@
 
 This project analyses the financial performance of a SaaS business using Power BI
 
-##Objectives
+## Objectives
 
 -Track revenue performance
+
 -Analyse profitablity
+
 -Monitor customer growth
+
 -Measure key business KPIs
 
 ## Tools Used
