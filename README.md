@@ -20,8 +20,6 @@ This project analyses the financial performance of a SaaS business using Power B
 
 -Power Query
 
--DAX
-
 ## Key Metrics
 
 -Revenue
