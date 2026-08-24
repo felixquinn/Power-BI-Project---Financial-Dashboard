@@ -3,7 +3,9 @@
 ## Overview
 
 This project analyses the financial performance of a SaaS business using Power BI
-blob:https://github.com/d74b0b4d-f573-42cf-ac7a-e6bba8fb062e
+
+<img width="1132" height="663" alt="SaaS Financial Metrics Overview - Overview" src="https://github.com/user-attachments/assets/d2c09219-6c6a-4954-8426-fce299c367d5" />
+
 
 ## Objectives
 
