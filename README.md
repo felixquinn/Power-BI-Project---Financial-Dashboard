@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses the financial performance of a SaaS business using Power BI
+This project analyses the financial performance of a SaaS business using Power BI. The dashboard provides insights into revenue, profitability and customer growth through interactive KPI reporting and visualisations.
 
 ## Objectives
 
