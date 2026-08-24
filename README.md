@@ -17,21 +17,29 @@ This project analyses the financial performance of a SaaS business using Power B
 ## Tools Used
 
 -Power BI
+
 -Power Query
+
 -DAX
 
 ## Key Metrics
 
 -Revenue
+
 -Gross Profit
+
 -EBIT
+
 -Customer Growth
 
 ## Skills Demonstrated
 
 -Data Visualisation
+
 -Dashboard Design
+
 -Business Analysis
+
 -KPI Reporting
 
 ##Dashboard Preview
